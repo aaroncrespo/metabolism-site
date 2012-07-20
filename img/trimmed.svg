@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="910px" height="660px"
+	 viewBox="0 0 910 660" enable-background="new 0 0 910 660" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" y="66.5" x="-132" height="648.75" width="825.25"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="_x3C_Group_x3E_GlucuronateMetabolism_1_" opacity="0.7" enable-background="new    ">
+	<g>
+		<path fill="#FFBF00" d="M565.167,487.715V390h-65.161L500,461.5c0,4.319,0,14.333,3.5,18.5c4.334,6.166,11.181,7.715,13,7.715
+			H565.167"/>
+	</g>
+	<g>
+		<path fill="#FFBF00" d="M565.167,487.715V390h-65.161L500,461.5c0,4.319,0,14.333,3.5,18.5c4.334,6.166,11.181,7.715,13,7.715
+			H565.167"/>
+	</g>
+</g>
+<g id="_x3C_Group_x3E_AsparatateAminoAcidGroupSynthesis_4_" opacity="0.7">
+	<path fill="#00EAFF" d="M565.167,487.715V390h80.312l0,0h9.536c-1.654,0-7.35,4.119-7.35,7.939v70.894
+		c0,3.671,0.834,10.458-2.478,13.954c-2.678,2.392-5.666,4.928-9.561,4.928H565.167"/>
+</g>
+<g id="_x3C_Group_x3E_AsparatateAminoAcidGroupSynthesis_1_" opacity="0.7">
+	<path fill="#19E624" d="M510,660V530h189.125l0,0h22.458c-3.896,0-7.053,5.263-7.053,10.347v101.245
+		c0,4.883-1.485,9.563-4.132,13.017c-2.646,3.452-6.232,5.392-9.974,5.392H510"/>
+</g>
+<g id="_x3C_Group_x3E_PyruvateDecarboxylation" opacity="0.7">
+	<rect x="500.005" y="310" fill="#FF00BF" width="79.995" height="80"/>
+</g>
+<g id="_x3C_Group_x3E_BranchedAminoAcidSynthesis" opacity="0.7">
+	<path fill="#FF00BF" d="M370,660H174.303c-3.993,0-7.821-2.107-10.644-5.858c-2.823-3.751-4.409-8.838-4.409-14.142v-90h203.224
+		c1.998,0,3.911-1.054,5.323-2.929s2.205-4.419,2.205-7.071L370,660"/>
+</g>
+<g id="_x3C_Group_x3E_AsparatateAminoAcidGroupSynthesis" opacity="0.7">
+	<path fill="#FF00BF" d="M580,100h201.374c3.956,0,7.75,2.107,10.548,5.858s4.369,8.838,4.369,14.142v110c0,5.523,3.338,10,7.458,10
+		H780v30H580V100"/>
+</g>
+<g id="_x3C_Group_x3E_PentoseInterconversion" opacity="0.7">
+	<path fill="#FF00BF" d="M399.619,96"/>
+	<path fill="#FF00BF" d="M400,112.286v81.429c0,8.995,8.688,16.286,19.714,16.286H190.131v-97.714H400z"/>
+</g>
+<g id="_x3C_Group_x3E_InositolMetabolism" opacity="0.7">
+	<path fill="#FF00BF" d="M147.233,210H17.983v100H130v-80C130,218.954,137.715,210,147.233,210"/>
+</g>
+<g id="_x3C_Group_x3E_AsparatateAminoAcidGroupSynthesis_3_" opacity="0.7">
+	<path fill="#19E624" d="M400,11.25v101.036H171.097l0,0h-27.18c4.716,0,8.536-4.09,8.536-8.041V25.557
+		c0-3.795,1.797-7.433,4.999-10.117c3.203-2.682,7.544-4.19,12.073-4.19H400"/>
+</g>
+<g id="_x3C_Group_x3E_CelluloseAndSucroseMetabolism" opacity="0.7">
+	<rect x="17.742" y="310" fill="#FFBF00" width="112.017" height="80"/>
+</g>
+<g id="_x3C_Group_x3E_CitricAcidCycle" opacity="0.7" enable-background="new    ">
+	<rect x="580" y="270" opacity="0.7" fill="#6600FF" enable-background="new    " width="200" height="120"/>
+</g>
+<g id="_x3C_Group_x3E_FattyAcidMetabolism" opacity="0.7" enable-background="new    ">
+	<path opacity="0.68" fill="#6600FF" enable-background="new    " d="M370,540c0-5.523,4.477-10,10-10h130v130H370V540"/>
+</g>
+<g id="_x3C_Group_x3E_AsparatateAminoAcidGroupSynthesis_2_" opacity="0.7" enable-background="new    ">
+	<path opacity="0.68" fill="#6600FF" enable-background="new    " d="M400,11.25h231.375c4.547,0,8.905,1.324,12.12,3.681
+		c3.214,2.357,5.02,5.553,5.02,8.887v69.119c0,3.471,3.835,7.063,8.567,7.063h-27.284l0,0H400V11.25"/>
+</g>
+<g id="_x3C_Group_x3E_GlucuronateMetabolism" opacity="0.7" enable-background="new    ">
+	<path opacity="0.68" fill="#6600FF" enable-background="new    " d="M190,112.286H35.658c-4.815,0-9.434,1.716-12.839,4.77
+		c-3.405,3.055-5.319,7.196-5.319,11.516V210H190V112.286"/>
+</g>
+<g id="_x3C_Group_x3E_AminoSugarsMetabolism" opacity="0.7">
+	<path fill="#FFBF00" d="M369.935,410c-4.353,0-8.522,2.107-11.603,5.858s-4.807,8.838-4.807,14.142v40c0,11.046-7.351,20-16.411,20
+		H181.221c4.353,0,8.526-2.107,11.603-5.858c3.078-3.751,4.806-8.838,4.806-14.142v-60H369.935"/>
+</g>
+<g id="_x3C_Group_x3E_GlutamateAminoAcidGroupSynthesis" opacity="0.7">
+	<path fill="#FFBF00" d="M833.479,390H665.623c3.708,0,7.262,2.107,9.884,5.857c2.625,3.752,4.099,8.839,4.099,14.143v100
+		c0,11.046-6.264,20-13.98,20h138.653c0,0,7.688,0.667,12.676-4.836c2.718-3.333,2.647-3.333,2.44-15.164V400
+		c-0.008-5.523,2.122-10,13.193-10"/>
+</g>
+<g id="_x3C_Group_x3E_SmallAminoAcidSynthesis" opacity="0.7">
+	<path fill="#FF0000" d="M330,490c-3.773,0-7.393,2.107-10.062,5.858c-2.668,3.751-4.163,8.838-4.163,14.142v20
+		c0,11.046,6.361,20,14.229,20H159.25v-40c0-11.046,6.37-20,14.229-20H330"/>
+</g>
+<g id="_x3C_Group_x3E_PorphyrinsAndCorronoidsMetabolism" opacity="0.7">
+	<path fill="#FF0000" d="M780,390h57.046c1.513,0,2.964-1.055,4.033-2.93c1.07-1.875,1.671-4.418,1.671-7.07V250
+		c0-5.523-2.553-10-5.704-10H780V390"/>
+</g>
+<g id="_x3C_Group_x3E_AromaticAminoAcidSynthesis" opacity="0.7">
+	<path fill="#00EAFF" d="M450,160h130v150H470V180C470,168.954,461.046,160,450,160"/>
+</g>
+<g id="_x3C_Group_x3E_PentosePhosphatePathway" opacity="0.7">
+	<path fill="#FFBF00" d="M450.332,210H263.488v100H470V190C470,201.046,461.194,210,450.332,210"/>
+</g>
+<g id="_x3C_Group_x3E_LactoseAndGalactoseMetabolism" opacity="0.7">
+	<path fill="#19E624" d="M184.059,210h79.429v100H198.5v-80C198.5,218.954,192.035,210,184.059,210"/>
+</g>
+<g id="_x3C_Group_x3E_StarchAndGlycogenMetabolism" opacity="0.7">
+	<path fill="#00EAFF" d="M17.5,390v70c0,11.046,7.749,20,17.308,20h77.885c4.59,0,8.992-2.107,12.238-5.858
+		C128.177,470.391,130,465.304,130,460v-70H17.5"/>
+</g>
+<g id="_x3C_Group_x3E_HistidineMetabolism" opacity="0.7">
+	<path fill="#FF0000" d="M400.047,180v-80H580v60H420.042c-5.302,0-10.388,2.107-14.138,5.858S400.047,174.696,400.047,180"/>
+</g>
+<g id="_x3C_Group_x3E_GlycolysisAndGluconeogenesis" opacity="0.7">
+	<path fill="#FF0000" d="M198.5,310v100h283.227c4.854,0,9.494,2.107,12.93,5.858c3.425,3.751,5.35,8.838,5.35,14.142V310H198.5"/>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M670,240c5.304,0,10.391-2.107,14.142-5.858
+		S690,225.304,690,220c0-11.046,8.334-20.159,20-20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M420,355.166V460c0,11.046,5.704,20,16.75,20
+		c-11.046,0-16.75,8.954-16.75,20v103.417"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" d="M360,510h110c-11.046,0-20,8.954-20,20
+		c0,5.304-2.107,10.391-5.858,14.142S435.304,550,430,550c-27.614,0-50,22.386-50,50s22.386,50,50,50c22.091,0,40-17.909,40-40
+		s-17.909-40-40-40c-16.569,0-30,13.431-30,30s13.431,30,30,30c11.046,0,20-8.954,20-20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M639.25,330v90.75
+		c0,11.046,9.704,19.25,20.75,19.25h80c11.046,0,20,8.954,20,20s-8.954,20-20,20h-60c-5.304,0-10.391,2.107-14.142,5.858
+		S660,494.696,660,500v93"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" d="M726.194,310.866
+		C728.707,316.932,730,323.434,730,330c0,27.614-22.386,50-50,50s-50-22.386-50-50s22.386-50,50-50
+		C700.223,280,718.455,292.182,726.194,310.866z"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M726.194,310.866
+		C728.707,316.932,730,323.434,730,330c0,27.614-22.386,50-50,50s-50-22.386-50-50s22.386-50,50-50
+		C700.223,280,718.455,292.182,726.194,310.866z"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M630,330c0,11.046-8.954,20-20,20H80"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M150,344.003V280c0-11.046-8.954-20-20-20H79.25"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M270,341.584V260c0-11.046,8.954-20,20-20h130.75"
+		/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M429.427,340.751V148.5
+		c0-10.583,9.527-19.25,20.573-19.25h30"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M429.427,161.875V70c0-11.046,9.527-20,20.573-20
+		h30c7.869,0,15.279-3.705,20-10c5.409-5.409,12.427-8.918,20-10h90"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M70,250v-60c0-11.046,8.954-20,20-20h50.75"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M150,160v-10c0-5.304-1.694-10.391-4.709-14.142
+		S138.187,130,133.924,130H61.577c-8.879,0-16.077,8.954-16.077,20c0,5.304,1.694,10.391,4.709,14.142S57.312,170,61.576,170h40.192
+		"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M150,180v100c0-5.304,2.107-10.391,5.858-14.142
+		S164.696,260,170,260h55"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M130,130h170c5.304,0,10.391,2.107,14.142,5.858
+		S320,144.696,320,150v90"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M159.25,170H300c5.304,0,10.391,2.107,14.142,5.858
+		S320,184.696,320,190"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M330,340v-30c0-11.046,8.954-20,20-20h60
+		c5.304,0,10.391-2.107,14.142-5.858s5.285-8.838,5.285-14.142"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M330,360v70c0,11.046-8.954,20-20,20h-30"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M150,360v50c0,11.046-8.954,20-20,20H80"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M480,50c7.869,0,15.279,3.705,20,10
+		c5.409,5.409,12.427,8.918,20,10h90"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M429.427,290c0-11.046,9.527-20,20.573-20h100"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M630,315V180c0-11.046,8.954-20,20-20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M630,180v-40c0-11.046,8.954-20,20-20h-30
+		c-5.304,0-10.391,2.107-14.142,5.858S600,134.696,600,140v30c0,11.046-8.954,20-20,20h-35"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M550,270c5.304,0,10.391-2.107,14.142-5.858
+		S570,255.304,570,250v-40c0-11.046-8.954-20-20-20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M630,160c0-11.046,8.954-20,20-20h60"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M737,302.001c5.304,0,13.391,0.106,17.142,3.857
+		S760,314.696,760,320v180"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M720,420.75h20c5.304,0,11.793,3.054,15.544,6.805
+		S760,437.446,760,442.75"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M646.194,580
+		c2.513,6.066,3.806,12.568,3.806,19.134c0,27.614-22.386,50-50,50s-50-22.386-50-50s22.386-50,50-50
+		C620.223,549.134,638.455,561.316,646.194,580z"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M599,549c5.304,0,11.391,3.107,15.142,6.858
+		S620,564.696,620,570v10"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M275.75,76.048"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M590,356.834V490c0,11.046-8.954,20-20,20H470"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M360,510c11.046,0,20-8.954,20-20v-40
+		c0-5.304,2.107-10.391,5.858-14.142S394.696,430,400,430h80c11.046,0,20-8.954,20-20v-50v70c0,11.046,8.954,20,20,20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M360,510h110c-11.046,0-20,8.954-20,20
+		c0,5.304-2.107,10.391-5.858,14.142S435.304,550,430,550c-27.614,0-50,22.386-50,50s22.386,50,50,50c22.091,0,40-17.909,40-40
+		s-17.909-40-40-40c-16.569,0-30,13.431-30,30s13.431,30,30,30c8.425,0,16.141-5.482,18.902-13.446
+		c2.979-8.601-1.291-16.55-10.902-16.545"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M279.25,510L279.25,510H360
+		c11.046,0,20-8.954,20-20v-40c0-5.304,2.107-10.391,5.858-14.142S394.696,430,400,430h80c11.046,0,20-8.954,20-20v-50v70
+		c0,11.046,8.954,20,20,20"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M340,510c-5.304,0-10.391,2.003-14.142,5.568
+		c-3.751,3.562-5.858,8.397-5.858,13.438v55.88c0,10.499-8.954,19.014-20,19.014h-20.75"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M225,390h-46.869
+		c-5.525,0-10.823-2.107-14.729-5.857c-3.908-3.752-6.102-8.838-6.102-14.143v-14.834"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M208.5,76l147.125-0.203"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M797.333,302.001H729.25"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M710,240h-70"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M749.551,508.417h-28.229"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M286.5,66.798V40.381"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M199.25,67.298V40.881"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M330.002,282.667v26.417"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M335.938,76"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M430,232.542l-29.232-0.083
+		c-12.466,0-22.572-14.027-22.572-31.333v-93.998c0-8.309-2.378-16.278-6.611-22.154c-4.233-5.876-9.975-9.178-15.96-9.178"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M596.987,354.466c5.304,0,11.499,2.615,15.25,6.367
+		c3.751,3.75,4.263,7.028,4.263,12.332V450"/>
+	<path fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" d="M499.713,342.667c0-11.046,9.527-20,20.573-20
+		h110.251"/>
+</g>
+<g>
+	
+		<circle id="_x3C_Path_x3E_Glucuronate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="150" cy="170" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_LactoseGalactose" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="234.25" cy="260" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Inositol" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="70" cy="260" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_SucroseCellulose" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="70" cy="350" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_AmyloseGlycogen" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="70" cy="430" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glucose" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="234.25" cy="390" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glucose-1-Phosphate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="150" cy="351.583" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glucose-6-Phosphate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="270" cy="350.001" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Fructose" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="330" cy="273.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Ribulose-5-Phosphate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="430" cy="240" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Fructose-6-Phosphate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="330" cy="350.001" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_GAD-3P" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="424.25" cy="348.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Pyruvate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="500" cy="351.583" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Tryptophan" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="535.75" cy="190" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Histidine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="489" cy="130.75" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_ATPtoAdenosine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="619.25" cy="30" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_GTPtoGuanosine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="619.25" cy="70" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Serine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="660" cy="120" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Cysteine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="660" cy="160" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Methionine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="719.25" cy="140" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Asparagine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="719.25" cy="198.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Lysine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="719.25" cy="240" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Aspartate2" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="630" cy="240" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_HemoglobinVitaminB12Cytochromes" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="806.583" cy="302.001" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Succinate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="720" cy="302.001" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Fumarate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="665.623" cy="282.667" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Oxaloacetate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="633.583" cy="323.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_2-oxo-glutarate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="710.75" cy="370" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glutamine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="710.75" cy="420.75" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glutamate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="760" cy="508.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Proline" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="710.75" cy="508.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_LactateEthanol" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="527.75" cy="450" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_AcetylCoA" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="590" cy="348.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_GlucosamineChitin" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="270" cy="450" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Fats" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="446" cy="480" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_GlycineSerineAlanine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="270" cy="510" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_ValineThreonineLeucineIso-Leucine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="270" cy="603.9" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_FattyAcid" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="428.583" cy="602.25" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Urea" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="620" cy="588.417" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Aspartate" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="655.624" cy="601.834" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Uridine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="286.5" cy="76.048" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Cytidine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="199.25" cy="75.797" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_UracilEtc" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="286.5" cy="31.131" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_CytosineEtc" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="199.25" cy="31.381" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_AMP" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="535.75" cy="30" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_GMP" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="535.75" cy="70" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_VitaminC" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="70" cy="130.75" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Arginine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="558" cy="624.917" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Tyrosine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="534.041" cy="269.25" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Threonine" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="630" cy="190" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_AMP_1_" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="345.375" cy="75.846" r="9.25"/>
+	
+		<circle id="_x3C_Path_x3E_Glutamine_1_" fill="#62B24F" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="616.5" cy="450" r="9.25"/>
+</g>
+</svg>
