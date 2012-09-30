@@ -1,4 +1,4 @@
-[
+window.reactions = [
    {
       "data":{
          "id":"Fermentation"

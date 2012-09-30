@@ -1,4 +1,4 @@
-[
+window.dots = [
    {
       "data":{
          "id":"Glucuronate"
