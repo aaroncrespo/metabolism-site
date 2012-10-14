@@ -1,6 +1,12 @@
 var canvas = Raphael('metabolism', '940', '680');
 
 $(function () {
+    var modalTitleHolder    = $('.modal-header h3');
+    var modalDiseaseHolder  = $('#reaction-diseases .accordion-inner');
+    var modalProductsHolder = $('#reaction-products .accordion-inner');
+    var modalReactionHolder = $('#reaction-info .accordion-inner');
+    var modalQuizesHolder   = $('#reaction-quizes .accordion-inner');
+    var diseaseMenu         = $('diseases .dropdown-menu');
 
     Reaction = Backbone.Model.extend({
 
@@ -32,11 +38,38 @@ $(function () {
         },
 
         events: {
-            "click": "click";   
+            "click": "selectReaction"
         },
 
-        click: function(){
-            alert('clicked');
+        selectReaction: function(){
+          var trueData = this.model.get('data');
+          modalTitleHolder.empty();
+          modalDiseaseHolder.empty();
+          modalProductsHolder.empty();
+          modalReactionHolder.empty();
+          modalQuizesHolder.empty();
+
+          modalTitleHolder.append(trueData.id);
+          modalReactionHolder.append(trueData.reaction);
+
+          if (trueData.products) {
+            trueData.products.forEach(function(product){
+              modalProductsHolder.append('<ul>');
+              modalProductsHolder.append('<li>' + product.id + '</li>');
+              modalProductsHolder.append('</ul>');
+            });
+          } else {
+            modalProductsHolder.append("<strong>Sorry Liz hasnt given me products for this reaction yet</strong>");
+          }
+
+          if(trueData.diseases) {
+            trueData.diseases.forEach(function(disease){
+              modalDiseaseHolder.append('<h4>' + disease.id + '</h4>');
+              modalDiseaseHolder.append('<ul>' + disease.description + '</ul>');
+            });
+          } else {
+            modalDiseaseHolder.append("<strong>Sorry Liz hasn't told me about any diseases related to this reaction yet</strong>");
+          }
         },
 
         render: function (){
@@ -54,6 +87,18 @@ $(function () {
                     opacity: '0.7',
                     cursor: 'pointer'
                 });
+
+            p.mouseover(function () {
+                p.animate({'stroke-width': '3','stroke-opacity': '100', 'stroke-color': '#FFFFFF'}, 100);
+            });
+
+            p.mouseout(function () {
+                p.animate({'stroke-width': '0','stroke-opacity': '0'}, 100);
+
+            });
+
+            p.node.setAttribute('data-toggle','modal');
+            p.node.setAttribute('href','#reaction-modal');
 
             this.setElement(p.node);
             return this;
